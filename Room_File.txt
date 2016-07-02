@@ -1,0 +1,21 @@
+Count: 10
+Room: Kitchen
+a table, stove and a big unreachable knife.
+Room: Master_Bedroom
+a huge master bedroom containing a giant four-poster canopy bed.
+Room: Long_Hallway
+a long hallway with green vines and grapes figured into the wallpaper.
+Room: Dining_Room
+a long dining room with dim lighting.
+Room: Bunny_Room
+a room full of hoppers.
+Room: Hallway
+a hallway with murrals of myths.
+Room: Child_Bedroom
+a bedroom filled with the dolls of young children.
+Room: Bath_Room
+a bathroom with a leaky faucet and dirty mirror.
+Room: Walk_in_Closet
+a large closet filled with battered clothing.
+Room: Game_Room
+a room with an old CRT television and Super Nintendo system.
