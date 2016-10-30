@@ -15,6 +15,7 @@ Games implimented:	guess-a-card, Nim, Mystery-House
 //main program driver
 int main()
 {
+	//testing atom
 	srand(time(NULL)); // randomize value based on current time
 
 	GM obj = { 0 }; //initializes GM object
